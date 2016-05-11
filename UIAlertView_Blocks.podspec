@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "UIAlertView+Blocks"
+  s.name         = "UIAlertView_Blocks"
   s.version      = "0.9"
   s.summary      = "Category on UIAlertView to use inline block callbacks instead of delegate callbacks."
 
